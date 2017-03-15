@@ -1,0 +1,185 @@
+WINF_ArchTech4UA (Architekturen und Technologien von Unternehmensanwendungen)
+Gruppe(n): WINFBA2
+Mo 20.03.2017: 08.15 - 09.45 Prof. Dr. Jochen Rasch G107
+Mo 20.03.2017: 11.35 - 13.05 Prof. Dr. Volker Stiehl G117
+Mo 27.03.2017: 08.15 - 09.45 Prof. Dr. Jochen Rasch G107
+Mo 27.03.2017: 11.35 - 13.05 Prof. Dr. Volker Stiehl G117
+Mo 03.04.2017: 08.15 - 09.45 Prof. Dr. Jochen Rasch G107
+Mo 03.04.2017: 11.35 - 13.05 Prof. Dr. Volker Stiehl G117
+Mo 10.04.2017: 08.15 - 09.45 Prof. Dr. Jochen Rasch G107
+Mo 10.04.2017: 11.35 - 13.05 Prof. Dr. Volker Stiehl G117
+Mo 24.04.2017: 08.15 - 09.45 Prof. Dr. Jochen Rasch G107
+Mo 24.04.2017: 11.35 - 13.05 Prof. Dr. Volker Stiehl G117
+Mo 08.05.2017: 08.15 - 09.45 Prof. Dr. Jochen Rasch G107
+Mo 08.05.2017: 11.35 - 13.05 Prof. Dr. Volker Stiehl G117
+Mo 15.05.2017: 08.15 - 09.45 Prof. Dr. Jochen Rasch G107
+Mo 15.05.2017: 11.35 - 13.05 Prof. Dr. Volker Stiehl G117
+Mo 22.05.2017: 08.15 - 09.45 Prof. Dr. Jochen Rasch G107
+Mo 22.05.2017: 11.35 - 13.05 Prof. Dr. Volker Stiehl G117
+Mo 29.05.2017: 08.15 - 09.45 Prof. Dr. Jochen Rasch G107
+Mo 29.05.2017: 11.35 - 13.05 Prof. Dr. Volker Stiehl G117
+Mo 12.06.2017: 08.15 - 09.45 Prof. Dr. Jochen Rasch G107
+Mo 12.06.2017: 11.35 - 13.05 Prof. Dr. Volker Stiehl G117
+Mo 19.06.2017: 08.15 - 09.45 Prof. Dr. Jochen Rasch G107
+Mo 19.06.2017: 11.35 - 13.05 Prof. Dr. Volker Stiehl G117
+Mo 26.06.2017: 08.15 - 09.45 Prof. Dr. Jochen Rasch G107
+Mo 26.06.2017: 11.35 - 13.05 Prof. Dr. Volker Stiehl G117
+Mo 03.07.2017: 08.15 - 09.45 Prof. Dr. Jochen Rasch G107
+Mo 03.07.2017: 11.35 - 13.05 Prof. Dr. Volker Stiehl G117
+Mo 10.07.2017: 08.15 - 09.45 Prof. Dr. Jochen Rasch G107
+Mo 10.07.2017: 11.35 - 13.05 Prof. Dr. Volker Stiehl G117
+
+WINF_BusITEngl.1 (Wirtschafts- und IT-Englisch.1 )
+Gruppe(n): WINFBA2
+Di 21.03.2017: 09.55 - 13.05 Aanchal Berger D316
+Di 28.03.2017: 09.55 - 13.05 Aanchal Berger D316
+Di 04.04.2017: 09.55 - 13.05 Aanchal Berger D316
+Di 11.04.2017: 09.55 - 13.05 Aanchal Berger D316
+Di 25.04.2017: 09.55 - 13.05 Aanchal Berger D316
+Di 02.05.2017: 09.55 - 13.05 Aanchal Berger D316
+Di 09.05.2017: 09.55 - 13.05 Aanchal Berger D316
+Di 16.05.2017: 09.55 - 13.05 Aanchal Berger D316
+Di 23.05.2017: 09.55 - 13.05 Aanchal Berger D316
+Di 30.05.2017: 09.55 - 13.05 Aanchal Berger D316
+Di 13.06.2017: 09.55 - 13.05 Aanchal Berger D316
+Di 20.06.2017: 09.55 - 13.05 Aanchal Berger D316
+Di 27.06.2017: 09.55 - 13.05 Aanchal Berger D316
+Di 04.07.2017: 09.55 - 13.05 Aanchal Berger D316
+
+WINF_EinfFachwissArb.1 (Einführungsseminar Medienkompetenz und fachwissenschaftliches Arbeiten.1 )
+Gruppe(n): WINFBA2
+Mi 15.03.2017: 13.15 - 14.45 Prof. Dr. Melanie Kaiser B110
+Mo 20.03.2017: 14.55 - 18.05 Antje Köhler BIBLIOTHEK
+Di 21.03.2017: 14.55 - 18.05 Antje Köhler BIBLIOTHEK
+Mi 22.03.2017: 13.15 - 14.45 Prof. Dr. Melanie Kaiser B110 findet nicht statt
+Mi 29.03.2017: 13.15 - 14.45 Prof. Dr. Melanie Kaiser B110
+Mi 05.04.2017: 13.15 - 14.45 Prof. Dr. Melanie Kaiser B110
+Mi 12.04.2017: 13.15 - 14.45 Prof. Dr. Melanie Kaiser B110 findet nicht statt
+Mi 19.04.2017: 13.15 - 14.45 Prof. Dr. Melanie Kaiser B110 findet nicht statt
+Mi 26.04.2017: 13.15 - 14.45 Prof. Dr. Melanie Kaiser B110
+Mi 03.05.2017: 13.15 - 14.45 Prof. Dr. Melanie Kaiser B110
+Mi 10.05.2017: 13.15 - 14.45 Prof. Dr. Melanie Kaiser B110
+Mi 17.05.2017: 13.15 - 14.45 Prof. Dr. Melanie Kaiser B110
+Mi 24.05.2017: 13.15 - 14.45 Prof. Dr. Melanie Kaiser B110 findet nicht statt
+Mi 31.05.2017: 13.15 - 14.45 Prof. Dr. Melanie Kaiser B110
+Mi 07.06.2017: 13.15 - 14.45 Prof. Dr. Melanie Kaiser B110 findet nicht statt
+Mi 14.06.2017: 13.15 - 14.45 Prof. Dr. Melanie Kaiser B110 findet nicht statt
+Mi 21.06.2017: 13.15 - 14.45 Prof. Dr. Melanie Kaiser B110
+Mi 28.06.2017: 13.15 - 14.45 Prof. Dr. Melanie Kaiser B110
+Mi 05.07.2017: 13.15 - 14.45 Prof. Dr. Melanie Kaiser B110
+
+WINF_EinfReWe (Einführung in das interne und externe Rechnungswesen)
+Gruppe(n): WINFBA2
+Mi 15.03.2017: 08.15 - 09.45 Prof. Dr. Karin Schmidt G204
+Mi 15.03.2017: 11.35 - 13.05 Prof. Dr. Torsten Graap G204
+Mi 22.03.2017: 08.15 - 09.45 Prof. Dr. Karin Schmidt G204
+Mi 22.03.2017: 11.35 - 13.05 Prof. Dr. Torsten Graap G204
+Mi 29.03.2017: 08.15 - 09.45 Prof. Dr. Karin Schmidt G204
+Mi 29.03.2017: 11.35 - 13.05 Prof. Dr. Torsten Graap G204
+Mi 05.04.2017: 08.15 - 09.45 Prof. Dr. Karin Schmidt G204
+Mi 05.04.2017: 11.35 - 13.05 Prof. Dr. Torsten Graap G204
+Mi 12.04.2017: 08.15 - 09.45 Prof. Dr. Karin Schmidt G204
+Mi 12.04.2017: 11.35 - 13.05 Prof. Dr. Torsten Graap G204
+Mi 19.04.2017: 08.15 - 09.45 Prof. Dr. Karin Schmidt G204
+Mi 19.04.2017: 11.35 - 13.05 Prof. Dr. Torsten Graap G204
+Mi 26.04.2017: 08.15 - 09.45 Prof. Dr. Karin Schmidt G204
+Mi 26.04.2017: 11.35 - 13.05 Prof. Dr. Torsten Graap G204
+Mi 03.05.2017: 08.15 - 09.45 Prof. Dr. Karin Schmidt G204
+Mi 03.05.2017: 11.35 - 13.05 Prof. Dr. Torsten Graap G204
+Mi 10.05.2017: 08.15 - 09.45 Prof. Dr. Karin Schmidt G204
+Mi 10.05.2017: 11.35 - 13.05 Prof. Dr. Torsten Graap G204
+Mi 17.05.2017: 08.15 - 09.45 Prof. Dr. Karin Schmidt G204
+Mi 17.05.2017: 11.35 - 13.05 Prof. Dr. Torsten Graap G204
+Mi 24.05.2017: 08.15 - 09.45 Prof. Dr. Karin Schmidt G204
+Mi 24.05.2017: 11.35 - 13.05 Prof. Dr. Torsten Graap G204
+Mi 31.05.2017: 08.15 - 09.45 Prof. Dr. Karin Schmidt G204
+Mi 31.05.2017: 11.35 - 13.05 Prof. Dr. Torsten Graap G204
+Mi 07.06.2017: 08.15 - 09.45 Prof. Dr. Karin Schmidt G204
+Mi 07.06.2017: 11.35 - 13.05 Prof. Dr. Torsten Graap G204
+Mi 14.06.2017: 08.15 - 09.45 Prof. Dr. Karin Schmidt G204
+Mi 14.06.2017: 11.35 - 13.05 Prof. Dr. Torsten Graap G204
+Mi 21.06.2017: 08.15 - 09.45 Prof. Dr. Karin Schmidt G204
+Mi 21.06.2017: 11.35 - 13.05 Prof. Dr. Torsten Graap G204
+Mi 28.06.2017: 08.15 - 09.45 Prof. Dr. Karin Schmidt G204
+Mi 28.06.2017: 11.35 - 13.05 Prof. Dr. Torsten Graap G204
+Mi 05.07.2017: 08.15 - 09.45 Prof. Dr. Karin Schmidt G204
+Mi 05.07.2017: 11.35 - 13.05 Prof. Dr. Torsten Graap G204
+
+WINF_MathWINFII (Mathematik für Wirtschaftsinformatiker II)
+Gruppe(n): WINFBA2
+Do 16.03.2017: 13.15 - 14.45 Prof. Dr. Katherine Roegner G105
+Di 21.03.2017: 14.00 - 15.40 Prof. Dr. Katherine Roegner G215
+Do 23.03.2017: 13.15 - 14.45 Prof. Dr. Katherine Roegner G105
+Di 28.03.2017: 14.00 - 15.40 Prof. Dr. Katherine Roegner G215
+Do 30.03.2017: 13.15 - 14.45 Prof. Dr. Katherine Roegner G105
+Di 04.04.2017: 14.00 - 15.40 Prof. Dr. Katherine Roegner G215
+Do 06.04.2017: 13.15 - 14.45 Prof. Dr. Katherine Roegner G105
+Di 11.04.2017: 14.00 - 15.40 Prof. Dr. Katherine Roegner G215
+Do 20.04.2017: 13.15 - 14.45 Prof. Dr. Katherine Roegner G105
+Di 25.04.2017: 14.00 - 15.40 Prof. Dr. Katherine Roegner G215
+Do 27.04.2017: 13.15 - 14.45 Prof. Dr. Katherine Roegner G105
+Di 02.05.2017: 14.00 - 15.40 Prof. Dr. Katherine Roegner G215
+Do 04.05.2017: 13.15 - 14.45 Prof. Dr. Katherine Roegner G105
+Di 09.05.2017: 14.00 - 15.40 Prof. Dr. Katherine Roegner G215
+Do 11.05.2017: 13.15 - 14.45 Prof. Dr. Katherine Roegner G105
+Di 16.05.2017: 14.00 - 15.40 Prof. Dr. Katherine Roegner G215
+Do 18.05.2017: 13.15 - 14.45 Prof. Dr. Katherine Roegner G105
+Di 23.05.2017: 14.00 - 15.40 Prof. Dr. Katherine Roegner G215
+Di 30.05.2017: 14.00 - 15.40 Prof. Dr. Katherine Roegner G215
+Do 01.06.2017: 13.15 - 14.45 Prof. Dr. Katherine Roegner G105
+Do 08.06.2017: 13.15 - 14.45 Prof. Dr. Katherine Roegner G105
+Di 13.06.2017: 14.00 - 15.40 Prof. Dr. Katherine Roegner G215
+Di 20.06.2017: 14.00 - 15.40 Prof. Dr. Katherine Roegner G215
+Do 22.06.2017: 13.15 - 14.45 Prof. Dr. Katherine Roegner G105
+Di 27.06.2017: 14.00 - 15.40 Prof. Dr. Katherine Roegner G215
+Do 29.06.2017: 13.15 - 14.45 Prof. Dr. Katherine Roegner G105
+Di 04.07.2017: 14.00 - 15.40 Prof. Dr. Katherine Roegner G215
+Do 06.07.2017: 13.15 - 14.45 Prof. Dr. Katherine Roegner G105
+
+WINF_Prakt_PrgJavaII.1 (Praktikum Programmierung in Java II.1 )
+Gruppe(n): WINFBA2
+Do 16.03.2017: 17.20 - 19.00 Michael Sand G308
+Do 06.04.2017: 17.20 - 19.00 Michael Sand G308
+Do 20.04.2017: 17.20 - 19.00 Michael Sand G308
+Do 27.04.2017: 17.20 - 19.00 Michael Sand G308
+Do 04.05.2017: 17.20 - 19.00 Michael Sand G308
+Do 11.05.2017: 17.20 - 19.00 Michael Sand G308
+Do 18.05.2017: 17.20 - 19.00 Michael Sand G308
+Do 01.06.2017: 17.20 - 19.00 Michael Sand G308
+Do 08.06.2017: 17.20 - 19.00 Michael Sand G308
+Do 22.06.2017: 17.20 - 19.00 Michael Sand G308
+Do 29.06.2017: 17.20 - 19.00 Michael Sand G308
+Do 06.07.2017: 17.20 - 19.00 Michael Sand G308
+
+WINF_PrgJavaII (Programmierung in Java II)
+Gruppe(n): WINFBA2
+Do 16.03.2017: 15.40 - 17.20 Michael Sand G204
+Di 21.03.2017: 15.40 - 17.20 Michael Sand G204
+Do 23.03.2017: 15.40 - 17.20 Michael Sand G204
+Di 28.03.2017: 15.40 - 19.00 Michael Sand G215
+Di 28.03.2017: 15.40 - 17.20 Michael Sand G204 findet nicht statt
+Do 30.03.2017: 15.40 - 19.00 Michael Sand B107
+Do 30.03.2017: 15.40 - 17.20 Michael Sand G204 findet nicht statt
+Di 04.04.2017: 15.40 - 17.20 Michael Sand G204
+Do 06.04.2017: 15.40 - 17.20 Michael Sand G204
+Di 11.04.2017: 15.40 - 17.20 Michael Sand G204
+Do 20.04.2017: 15.40 - 17.20 Michael Sand G204
+Di 25.04.2017: 15.40 - 17.20 Michael Sand G204
+Do 27.04.2017: 15.40 - 17.20 Michael Sand G204
+Di 02.05.2017: 15.40 - 17.20 Michael Sand G204
+Do 04.05.2017: 15.40 - 17.20 Michael Sand G204
+Di 09.05.2017: 15.40 - 17.20 Michael Sand G204
+Do 11.05.2017: 15.40 - 17.20 Michael Sand G204
+Di 16.05.2017: 15.40 - 17.20 Michael Sand G204
+Do 18.05.2017: 15.40 - 17.20 Michael Sand G204
+Di 23.05.2017: 15.40 - 17.20 Michael Sand G204
+Di 30.05.2017: 15.40 - 17.20 Michael Sand G204
+Do 01.06.2017: 15.40 - 17.20 Michael Sand G204
+Do 08.06.2017: 15.40 - 17.20 Michael Sand G204
+Di 13.06.2017: 15.40 - 17.20 Michael Sand G204
+Di 20.06.2017: 15.40 - 17.20 Michael Sand G204
+Do 22.06.2017: 15.40 - 17.20 Michael Sand G204
+Di 27.06.2017: 15.40 - 17.20 Michael Sand G204
+Do 29.06.2017: 15.40 - 17.20 Michael Sand G204
+Di 04.07.2017: 15.40 - 17.20 Michael Sand G204
+Do 06.07.2017: 15.40 - 17.20 Michael Sand G204
